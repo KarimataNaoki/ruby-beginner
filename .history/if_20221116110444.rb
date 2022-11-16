@@ -35,7 +35,5 @@ elsif age >= 20 && age < 30
     p "20代"
 elsif age >= 30 && age < 40
     p "30代"
-else
-    p "それ以外"
 end
 
