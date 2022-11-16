@@ -7,7 +7,6 @@
 #  p "adult"
 # end
 
-
 age = 18
 
 if age >= 20
