@@ -37,11 +37,10 @@
 
 def div(num01,num02,num03)
 
-    return (num01+num02+num03)/3
+    return num01+num02+num03
 end
 
-div_result = div(9,4,2)
+div_result = div(9,4,2)/3
 p div_result
-
 
 
