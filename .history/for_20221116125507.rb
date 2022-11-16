@@ -44,7 +44,7 @@ for i in 1 .. 10
         next
     elsif i == 7
         break
-    else
-        p i
+    p i
     end
 end
+
