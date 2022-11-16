@@ -33,9 +33,7 @@
 
 # age = 32
 
-# age = 43
-
-age = 5
+age = 43
 
 if age >= 10 && age < 20
     p "10代"

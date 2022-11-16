@@ -29,13 +29,7 @@
 
 # age = 10
 
-# age = 21
-
-# age = 32
-
-# age = 43
-
-age = 5
+age = 21
 
 if age >= 10 && age < 20
     p "10代"
@@ -46,4 +40,5 @@ elsif age >= 30 && age < 40
 else
     p "それ以外"
 end
+
 
