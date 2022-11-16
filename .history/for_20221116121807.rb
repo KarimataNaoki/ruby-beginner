@@ -23,17 +23,8 @@
     # end
 # end
 
-# arr = [2,4,6,8,10]
-
-# for i in arr
-    # p i
-# end
-
 arr = [2,4,6,8,10]
-sum = 0
 
 for i in arr
-    sum += i
+    p i
 end
-
-p sum

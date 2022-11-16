@@ -34,6 +34,5 @@ sum = 0
 
 for i in arr
     sum += i
+    p sum
 end
-
-p sum
