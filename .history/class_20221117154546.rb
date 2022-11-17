@@ -65,6 +65,6 @@ end
 # a001 = Student.new ("sato")
 # p a001.name,a001.avg(30,70)
 
-a002 = Student.new("katou")
+a002 = Student.new
 p a002.name,a002.avg(90,80)
 
