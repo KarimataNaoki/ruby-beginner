@@ -55,7 +55,7 @@ class Student
     end
     
     def avg(math, english)
-        return (math + english)/2
+        return @name,(math + english)?2
     end
 
     attr_accessor :name
