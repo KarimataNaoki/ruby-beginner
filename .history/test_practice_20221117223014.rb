@@ -1,5 +1,5 @@
 
-T = 1000
+T = 4
 
 if N = T / 4
     p "N is a leep year"
@@ -9,5 +9,4 @@ elsif N = T / 100
 
 elsif N = T / 400
     p "N is a leep year"
-
 end

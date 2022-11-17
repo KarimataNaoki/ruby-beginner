@@ -1,13 +1,11 @@
 
-T = 1000
+T = 4
 
-if N = T / 4
+if T / 4
     p "N is a leep year"
 
-elsif N = T / 100
+elsif T / 100
     p "N is not a leep year"
-
-elsif N = T / 400
+elsif T / 400
     p "N is a leep year"
-
 end
