@@ -6,6 +6,5 @@ class Student
     end
 end
 
-a001 = Student.new
+a001 class
 a001.avg
-
